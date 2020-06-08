@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "mesg-js": "^2.0.1",
+    "@liteflow/service": "^1.0.7",
     "mongoose": "^5.4.11",
     "node-telegram-bot-api": "^0.30.0"
   }
